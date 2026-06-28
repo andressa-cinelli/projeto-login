@@ -4,6 +4,7 @@
 
     body{
         background-image: linear-gradient(to top, #49A09d, #5f2c82);
+        
     }
 
     section#login {
@@ -20,7 +21,9 @@
         float: right;
         width: 70%;
     }
+
 }
+
 
 @media screen and (min-width: 992px){
     body{
